@@ -51,12 +51,10 @@ const About = () => {
               viewport={{ once: true }}
               className="text-lg text-gray-600 mb-6 leading-relaxed"
             >
-              Awake Grace Ministries Global, is a Bible based church,
-              spirit filled community of believers united in persuit 
-              of God' presence and purpose. Rooted in the teachings
-              of the Word of God as the church in Acts2:42, 
-              we are committed to spreading the trans-formative power
-              of the Gospel of JESUS CHRIST.
+              Awake Grace Ministries Global, is a Bible based church,spirit filled community of
+              believers united in persuit of God's presence and purpose.Rooted in the teachings
+              of the Word of God as the church in Acts2:42, we are committed to spreading the 
+              trans-formative powerof the Gospel of JESUS CHRIST.
             </motion.p>
 
             <motion.p
