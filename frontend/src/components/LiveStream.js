@@ -129,7 +129,7 @@ const LiveStream = () => {
                 {/* Viewer Count */}
                 <div className="absolute top-4 right-4 bg-black/50 backdrop-blur-sm text-white px-3 py-1 rounded-full text-sm flex items-center space-x-1">
                   <Users className="w-4 h-4" />
-                  <span>{viewerCount} watching</span>
+                  <span>{viewerCount} online</span>
                 </div>
               </div>
 
