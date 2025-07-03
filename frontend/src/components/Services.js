@@ -9,7 +9,7 @@ const Services = () => {
       time: "10:00 AM",
       description: "Join us for uplifting worship, inspiring messages, and fellowship",
       icon: Music,
-      duration: "2 hours"
+      duration: "3 hours"
     },
     {
       title: "Bible Study",
@@ -19,18 +19,18 @@ const Services = () => {
       duration: "1.5 hours"
     },
     {
-      title: "Prayer Meeting",
-      time: "6:00 PM",
-      description: "Fridays - Come together in powerful prayer and intercession",
+      title: " Online Prayer Meeting",
+      time: "4:00 AM",
+      description: "Everyday - Come together in powerful prayer and intercession",
       icon: Heart,
-      duration: "1 hour"
+      duration: "30 mins"
     },
     {
       title: "Youth Service",
       time: "5:00 PM",
       description: "Saturdays - Dynamic worship and teaching for young people",
       icon: Users,
-      duration: "2 hours"
+      duration: "1 hours"
     }
   ];
 
