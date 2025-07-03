@@ -78,7 +78,7 @@ const Hero = () => {
           transition={{ duration: 1, delay: 0.7 }}
           className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-6 leading-tight"
         >
-          <span className="block">Awake Grace</span>
+          <span className="block">Awake Grace Grace Ministries Global</span>
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-red-400">
             Ministries
           </span>
