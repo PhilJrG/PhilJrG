@@ -64,7 +64,7 @@ const PrayerRequest = () => {
               </motion.button>
             </Link>
             <p className="text-sm text-gray-500">
-              If you need immediate pastoral care, please call us at +27 16 123 4567
+              If you need immediate pastoral care, please call us at +27 67 065 1066
             </p>
           </div>
         </motion.div>
