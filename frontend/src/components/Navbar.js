@@ -50,7 +50,7 @@ const Navbar = () => {
             <div className="text-xl font-bold text-gray-800">
               Awake Grace
               <span className="text-orange-500 block text-sm font-normal">
-                Ministries
+                Ministries Global
               </span>
             </div>
           </motion.div>
