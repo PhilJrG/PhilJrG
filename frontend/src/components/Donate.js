@@ -284,7 +284,7 @@ const Donate = () => {
                     <span>Donate {getDonationAmount()}</span>
                   </>
                 )}
-              </button>
+              </motion.button>
             </form>
           </motion.div>
 
