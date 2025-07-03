@@ -63,7 +63,7 @@ const Footer = () => {
             <div className="space-y-2">
               <div className="flex items-center space-x-3">
                 <Phone className="w-5 h-5 text-orange-400" />
-                <span className="text-gray-300">+27 16 123 4567</span>
+                <span className="text-gray-300">+27 67 065 1066</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail className="w-5 h-5 text-orange-400" />
@@ -174,7 +174,7 @@ const Footer = () => {
               viewport={{ once: true }}
               className="text-gray-400 text-sm mb-4 md:mb-0"
             >
-              © 2024 Awake Grace Ministries. All rights reserved. Built with love for our community.
+              © 2024 Awake Grace Ministries Global. All rights reserved. Built with love for our community.
             </motion.div>
 
             <motion.div
