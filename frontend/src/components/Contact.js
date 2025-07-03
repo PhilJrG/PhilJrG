@@ -37,8 +37,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      info: "+27 16 123 4567",
-      subInfo: "Available Mon-Fri 9AM-5PM"
+      info: "+27 670 651 066",
+      subInfo: "Everyday 9AM-10PM"
     },
     {
       icon: Mail,
@@ -49,7 +49,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Address",
-      info: "The Vaal, South Africa",
+      info: "The Vaal, Quest Conference Centre,Vanderbijlpark South Africa",
       subInfo: "GPS coordinates available"
     },
     {
