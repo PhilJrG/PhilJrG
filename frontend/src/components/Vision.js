@@ -62,7 +62,7 @@ const Vision = () => {
           >
             We envision a thriving spiritual community where lives are transformed, 
             purposes are discovered, and God's love radiates through every member.
-          </p>
+          </motion.p>
         </div>
 
         <div className="grid lg:grid-cols-2 gap-16 items-center">
