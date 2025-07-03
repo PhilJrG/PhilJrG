@@ -51,9 +51,7 @@ const About = () => {
               viewport={{ once: true }}
               className="text-lg text-gray-600 mb-6 leading-relaxed"
             >
-              At Awake Grace Ministries, we believe in the transformative power of God's love. 
-              Our church family in The Vaal has been a beacon of hope and faith for over 15 years, 
-              welcoming everyone with open arms and hearts full of grace.
+              Awake Grace Ministries Global, is a Bible based church, spirit filled community of believers united in persuit of God's presence and purpose. Rooted in the teachings of the Word of God as the church in Acts2:42, we are committed to spreading the trans-formative power of the Gospel of JESUS CHRIST.
             </motion.p>
 
             <motion.p
