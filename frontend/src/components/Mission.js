@@ -7,12 +7,12 @@ const Mission = () => {
     {
       icon: Heart,
       title: "Spread God's Love",
-      description: "Sharing the unconditional love of Jesus Christ with everyone we meet"
+      description: "to perpetuate the gospel of Jesus Christ across nations"
     },
     {
       icon: Users,
       title: "Build Community",
-      description: "Creating a welcoming space where people can grow together in faith"
+      description: "Reviving generations and proclaiming His goodness"
     },
     {
       icon: Globe,
