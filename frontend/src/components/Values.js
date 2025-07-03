@@ -7,31 +7,31 @@ const Values = () => {
     {
       icon: Heart,
       title: "Love",
-      description: "We demonstrate God's unconditional love through our actions, words, and service to others.",
+      description: "1Corinthians 13 vs 4-7, 16 vs 14.",
       color: "from-red-500 to-pink-500"
     },
     {
-      icon: Shield,
-      title: "Integrity",
-      description: "We live with honesty, transparency, and authenticity in all our relationships and dealings.",
+      icon: Heart,
+      title: "Prayer",
+      description: "Philipians 4 vs 6-7.",
       color: "from-blue-500 to-indigo-500"
     },
     {
       icon: Users,
-      title: "Community",
-      description: "We believe in the power of genuine fellowship and building meaningful connections.",
+      title: "Holiness",
+      description: "Isaiah 35 vs 8.",
       color: "from-green-500 to-teal-500"
     },
     {
       icon: Lightbulb,
-      title: "Excellence",
-      description: "We strive for excellence in everything we do, honoring God with our best efforts.",
+      title: "Fasting",
+      description: "Psalms 35 vs 13, 69 vs 10; Ezra 8 vs 21.",
       color: "from-yellow-500 to-orange-500"
     },
     {
       icon: HandHeart,
-      title: "Service",
-      description: "We are called to serve others selflessly, following Christ's example of servant leadership.",
+      title: "Forgiveness",
+      description: "Colissians 3 vs 13.",
       color: "from-purple-500 to-violet-500"
     },
     {
